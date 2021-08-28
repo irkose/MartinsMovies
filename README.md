@@ -13,7 +13,4 @@ They need to:
 
 Martin's Movies would like to link the Read More button for each movie off to the IMDB page if the imdb_id is set for a movie. 
 
-He would like the design to match a theme he liked but make all make all links a dead link (eg x) for now:
-http://klbtheme.com/movify/movie-grid-3/
-
 This project is not finished yet, it is work in progress. 
